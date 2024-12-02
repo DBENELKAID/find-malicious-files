@@ -1,4 +1,4 @@
-# In English 
+# In english 
 # find-malicious-files
 PowerShell scripts that allow you to scan Windows systems (Windows servers or Windows Client) to find malicious files.
 
@@ -14,10 +14,10 @@ Script Names:
 02 By searching for a hash of a known file.
 For this second method there are also 4 scripts, two to scan a single local machine (a single hard drive or several disks) and two to scan remote machines (a single hard drive or several).
 Script Names:
-  01.FindSuspiciousFilesByHashValueOneDrive.ps1
-  02.FindSuspiciousFilesByHashValueAllDrive.ps1
-  03.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
-  04.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
+  05.FindSuspiciousFilesByHashValueOneDrive.ps1
+  06.FindSuspiciousFilesByHashValueAllDrive.ps1
+  07.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
+  08.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
   
 
 # En francais
@@ -36,7 +36,7 @@ Noms des scripts:
 02 Par la recheche d'un hash d'un fichier connu.
 Pour cette deuxième méthode il y a 4 aussi scripts, deux pour scanner une seule machine locale (un seule disque dur ou plusieus disques) et deux pour scanner des machines distantes  (un seule disque dur ou plusieus).
 Noms des scripts:
-  01.FindSuspiciousFilesByHashValueOneDrive.ps1
-  02.FindSuspiciousFilesByHashValueAllDrive.ps1
-  03.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
-  04.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
+  05.FindSuspiciousFilesByHashValueOneDrive.ps1
+  06.FindSuspiciousFilesByHashValueAllDrive.ps1
+  07.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
+  08.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
