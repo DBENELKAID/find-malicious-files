@@ -1,2 +1,42 @@
+# In English 
 # find-malicious-files
-741 / 5 000 PowerShell scripts that allow you to scan Windows systems (Windows servers or Windows Client) to find malicious files.
+PowerShell scripts that allow you to scan Windows systems (Windows servers or Windows Client) to find malicious files.
+
+With these scripts there are two methods to find the malicious file:
+01 By searching for the name of the known file.
+For this first method there are 4 scripts, two to scan a single local machine (a single hard drive or several disks) and two to scan remote machines (a single hard drive or several).
+Script Names:
+  01.FindSuspiciousFilesOneDrive.ps1
+  02.FindSuspiciousFilesAllDrives.ps1
+  03.FindSuspiciousFilesRemoteServersOneDrive.ps1
+  04.FindSuspiciousFilesRemoteServersAllDrives.ps1
+
+02 By searching for a hash of a known file.
+For this second method there are also 4 scripts, two to scan a single local machine (a single hard drive or several disks) and two to scan remote machines (a single hard drive or several).
+Script Names:
+  01.FindSuspiciousFilesByHashValueOneDrive.ps1
+  02.FindSuspiciousFilesByHashValueAllDrive.ps1
+  03.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
+  04.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
+  
+
+# En francais
+# trouver des fichiers malveillants
+Des scripts PowerShell qui permettent de scanner des systèmes Windows (Windows serveurs ou Windows Client) pour trouver des fichiers malvaillants.
+
+Avec ces script il y a deux methodes pour trouver le fichier malvaillant:
+01 Par ar la recherche du nom du fichier connu.
+Pour cette première méthode il y a 4 scripts, deux pour scanner une seule machine locale (un seule disque dur ou plusieus disques) et deux pour scanner des machines distantes  (un seule disque dur ou plusieus).
+Noms des scripts:
+  01.FindSuspiciousFilesOneDrive.ps1
+  02.FindSuspiciousFilesAllDrives.ps1
+  03.FindSuspiciousFilesRemoteServersOneDrive.ps1
+  04.FindSuspiciousFilesRemoteServersAllDrives.ps1
+
+02 Par la recheche d'un hash d'un fichier connu.
+Pour cette deuxième méthode il y a 4 aussi scripts, deux pour scanner une seule machine locale (un seule disque dur ou plusieus disques) et deux pour scanner des machines distantes  (un seule disque dur ou plusieus).
+Noms des scripts:
+  01.FindSuspiciousFilesByHashValueOneDrive.ps1
+  02.FindSuspiciousFilesByHashValueAllDrive.ps1
+  03.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
+  04.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
