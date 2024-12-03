@@ -9,7 +9,7 @@ Author			:Driss BENELKAID
 Mail			:benelkaid.driss@outlook.fr - benelkaid.d@gmail.com
 Version			:2.0
 Last modified	:14/03/2022 - 16h00
-Shared script	:https://drive.google.com/drive/folders/1c-os1kTanb5mr_n9GJae7SZ7q5EEeZ3N?usp=sharing
+Shared script	:https://github.com/DBENELKAID/find-malicious-files.git
 				:It is allowed to modify this script to improve it and share it in order to mitigate cyberattaques.
 #>
 "PowerShell running in version: $($PSVersionTable.PSVersion)."
