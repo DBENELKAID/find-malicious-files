@@ -5,7 +5,7 @@ Link GitHub: https://github.com/DBENELKAID/find-malicious-files.git
 # find-malicious-files
 PowerShell scripts that allow you to scan Windows systems (Windows servers or Windows Client) to find malicious files.
 
-Description: PowerShell script that scans a drive to find malicious files their hashes are listed in the list below.
+Description: PowerShell script that analyzes a disk or a lecteur to find malveillants, the caches that are listed in the $HashList in the script
 When a suspicious file is found, it will be noted with the hash in a result file "Drive:\SuspiciousFile\NameOfScript[X].txt".
 You can receive the latest malware hashes daily. You must register on a cybersecurity solution site, example: AlienVault OTX (SIEM Open source) (https://otx.alienvault.com/). 
 Platforme: All drives - Running on locale machine and remote machine (Windows Server and Windows Workstation).
@@ -37,7 +37,7 @@ Script Names:
 # trouver des fichiers malveillants
 Des scripts PowerShell qui permettent de scanner des systèmes Windows (Windows serveurs ou Windows Client) pour trouver des fichiers malvaillants.
 
-Description: script PowerShell qui analyse un disque dur ou un lecteur pour trouver des fichiers malveillants, leurs hachages sont répertoriés dans la liste ci-dessous.
+Description: script PowerShell qui analyse un disque dur ou un lecteur pour trouver des fichiers malveillants, leurs hachages sont listé dans la $HashList haut de script.
 Lorsqu'un fichier suspect est trouvé, il sera noté avec le hachage dans un fichier de résultats «Drive:\SuspiciousFile\NameOfScript[X].txt».
 Vous pouvez recevoir quotidiennement les derniers hachages de malware. Vous devez vous inscrire sur un site de solution de cybersécurité, par exemple: AlienVault OTX (SIEM Open source) (https://otx.alienvault.com/).
 Plateforme: tous les lecteurs - Exécution sur une machine locale et une machine distante (Windows Server et Windows Workstation).
