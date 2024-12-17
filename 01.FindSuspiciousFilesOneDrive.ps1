@@ -13,6 +13,7 @@ Last modified	:04/12/2024 - 15h00
 Shared script	:https://github.com/DBENELKAID/find-malicious-files.git
 				:It is allowed to modify this script to improve it and share it in order to mitigate cyberattaques.
 #>
+#
 #region list
 # ==================== Indicators of compromise list =======================================================
 # You can add other files to this list

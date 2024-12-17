@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub Link : https://github.com/DBENELKAID/find-malicious-files.git
 
 # In english
@@ -60,3 +61,7 @@ Noms des scripts:
   06.FindSuspiciousFilesByHashValueAllDrive.ps1
   07.FindSuspiciousFilesByHashValueOneDriveRemoteServers.ps1
   08.FindSuspiciousFilesByHashValueAllDriveRemoteServers.ps1
+=======
+# Fichier expliquant les intruction du projet PowerShell
+# modification DC1
+>>>>>>> b229bb5551fd983369f248d36476868d66de88c1

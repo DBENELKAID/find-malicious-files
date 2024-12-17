@@ -7,10 +7,16 @@ Model			:One drive - Running on remote machine (Remote-Job) - (Windows Server an
 PSVersion	    :Windows PowerShell 4.0 and later, PowerShell Core.
 Author			:Driss BENELKAID
 Mail			:benelkaid.driss@outlook.fr - benelkaid.d@gmail.com
+<<<<<<< HEAD
 Version			:2.1
 Created			:14/03/2022 - 16h00
 Last modified	:04/12/2024 - 15h00
 Shared script	:https://github.com/DBENELKAID/find-malicious-files.git
+=======
+Version			:2.0
+Last modified	:14/03/2022 - 16h00
+Shared script	:https://drive.google.com/drive/folders/1c-os1kTanb5mr_n9GJae7SZ7q5EEeZ3N?usp=sharing
+>>>>>>> b229bb5551fd983369f248d36476868d66de88c1
 				:It is allowed to modify this script to improve it and share it in order to mitigate cyberattaques.
 #>
 "PowerShell running in version: $($PSVersionTable.PSVersion)."
